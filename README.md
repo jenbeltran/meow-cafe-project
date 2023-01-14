@@ -1,8 +1,9 @@
 # meow-cafe-project
-YorkU Full Stack Final Project
 
-User Stories
+## YorkU Full Stack Final Project
+
+### User Stories
 
 
 
-Figma Design link
+**Figma Design link**
